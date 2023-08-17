@@ -5,6 +5,7 @@ provide users with comprehensive dining information, making it easy for them to 
 and discover local restaurants, cafes, and eateries. Whether you're a food enthusiast looking 
 for new culinary experiences or a traveller seeking the best dining spots in town, Local 
 Dining Guide has got you covered.</p>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -66,6 +67,3 @@ Dining Guide has got you covered.</p>
     </table>
 </body>
 </html>
-
-
-
