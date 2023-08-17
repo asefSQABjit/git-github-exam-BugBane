@@ -54,10 +54,9 @@ or visit our website <a href="http://www.localdiningguide.com">http://www.locald
 <html>
 
 <head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-
+  <style>
+      body {
+          font-family: Arial, sans-serif;
         .code-box {
             border: 1px solid #ddd;
             padding: 1px;
@@ -183,3 +182,4 @@ software solution strives to bridge the gap between diners and local eateries.
 
 </body>
 </html>
+
