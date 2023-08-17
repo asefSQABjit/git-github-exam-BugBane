@@ -5,7 +5,32 @@ provide users with comprehensive dining information, making it easy for them to 
 and discover local restaurants, cafes, and eateries. Whether you're a food enthusiast looking 
 for new culinary experiences or a traveller seeking the best dining spots in town, Local 
 Dining Guide has got you covered.</p>
-
+ <header>
+        <!-- Add your banner here -->
+        <img src="https://www.google.com/search?sca_esv=557735838&sxsrf=AB5stBhho21Bjavd9G7uZtnk2OlYQIzf-Q:1692264720440&q=project+logo+bjit&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi59ZusseOAAxUG3TgGHfwpB7gQ0pQJegQICBAB&biw=1366&bih=611&dpr=1#imgrc=OGob5zPt4kbzJM">
+    </header>
+            <ul>
+            <li>Introduction</li>
+            <li>Development Technology</li>
+            <li>Features</li>
+            <li>Getting Started</li>
+            <li>Usage</li>
+            <li>Contributors</li>
+            <li>Contact Information</li>
+        </ul>
+   
+   <h2>Introduction</h2>
+      <p>Local Dining Guide is a user-friendly platform that aims to connect users with local dining 
+options. It provides a rich and intuitive interface to search for restaurants, view their menus, 
+read reviews, and get directions. With a focus on enhancing the dining experience, this 
+software solution strives to bridge the gap between diners and local eateries.
+</p>
+      
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FDhaka.BjitAcademy%2F&psig=AOvVaw2nWtzvkC6yFZ6PRTXvF-l0&ust=1692351124026000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCR0a6x44ADFQAAAAAdAAAAABAX">
+   <footer>
+     <h2>License</h2>
+    <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a></p>
+</footer>
 ## Development Technology
 
 ### Front-End:
@@ -50,20 +75,7 @@ or visit our website <a href="http://www.localdiningguide.com">http://www.locald
 </ul>
 
 
-<!DOCTYPE html>
-<html>
 
-<head>
-  <style>
-      body {
-          font-family: Arial, sans-serif;
-        .code-box {
-            border: 1px solid #ddd;
-            padding: 1px;
-            border-radius: 5px;
-        }
-    </style>
-</head>
 
 <body>
 
@@ -74,10 +86,10 @@ or visit our website <a href="http://www.localdiningguide.com">http://www.locald
 
 <p><b>Web Browser:</b> Ensure you have a modern web browser installed to access the Local Dining Guide interface.</p>
 <p><b>Internet Connection:</b> A stable internet connection is required to fetch restaurant data and images.</p>
+<p><h3>Installation</h3></p>
 
-
-    <p><h3>Installation</h3></p>
-    <ol>
+    
+<br>   
         <li >Clone the Repository: Start by cloning this repository to your local machine.</li>
 <br>
         <code class="code-box">git clone https://github.com/yourusername/local-dining-guide.git</code></li>
@@ -89,26 +101,8 @@ or visit our website <a href="http://www.localdiningguide.com">http://www.locald
         <li >Launch the Application: Open the index.html file in your web browser.</li>
 <br>
         <code class="code-box">open index.html</code></li>
-    </ol>
-
-
-
-
-
-<html>
-<head>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 80%;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }
-    </style>
-</head>
+ <br>
+ 
 <body>
     <span><strong>Group Member 4 Task:</strong></span>
     <span>You need to add the following content in the README.md file using Markdown/HTML syntax while maintaining the same design. Upon cloning the repository, you will find an initially empty README.md file. Please add the following content, starting from line number 1.</span>
@@ -153,32 +147,7 @@ or visit our website <a href="http://www.localdiningguide.com">http://www.locald
             <td>01234567897</td>
         </tr>
     </table>
-    <header>
-        <!-- Add your banner here -->
-        <img src="https://www.google.com/search?sca_esv=557735838&sxsrf=AB5stBhho21Bjavd9G7uZtnk2OlYQIzf-Q:1692264720440&q=project+logo+bjit&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi59ZusseOAAxUG3TgGHfwpB7gQ0pQJegQICBAB&biw=1366&bih=611&dpr=1#imgrc=OGob5zPt4kbzJM">
-    </header>
-            <ul>
-            <li>Introduction</li>
-            <li>Development Technology</li>
-            <li>Features</li>
-            <li>Getting Started</li>
-            <li>Usage</li>
-            <li>Contributors</li>
-            <li>Contact Information</li>
-        </ul>
    
-   <h2>Introduction</h2>
-      <p>Local Dining Guide is a user-friendly platform that aims to connect users with local dining 
-options. It provides a rich and intuitive interface to search for restaurants, view their menus, 
-read reviews, and get directions. With a focus on enhancing the dining experience, this 
-software solution strives to bridge the gap between diners and local eateries.
-</p>
-      
-   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FDhaka.BjitAcademy%2F&psig=AOvVaw2nWtzvkC6yFZ6PRTXvF-l0&ust=1692351124026000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCR0a6x44ADFQAAAAAdAAAAABAX">
-   <footer>
-     <h2>License</h2>
-    <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a></p>
-</footer>
 
 </body>
 </html>
